@@ -58,4 +58,4 @@ with client:
     while True:
         client.loop.run_until_complete(send_messages())
         print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 2 دقیقه...")
-        time.sleep(300)  # ← اینجا تغییر کرد به 5 دقیقه
+        time.sleep(1800)  # ← اینجا تغییر کرد به 5 دقیقه
