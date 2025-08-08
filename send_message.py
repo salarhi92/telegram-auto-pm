@@ -22,7 +22,7 @@ messages = [
 🔒 Secure payment with trusted gateway
 💥 Works on Binance & all wallets
 💨 Send crypto FAST, SAFE & EASY
-Join thousands who trust Crypto Flash!
+Join thousands who trust Crypto Flas h!
 Get started now: https://cryptoflash.shop/
 Telegram: https://t.me/flashusdtsafe_bot""",
 
@@ -58,4 +58,4 @@ with client:
     while True:
         client.loop.run_until_complete(send_messages())
         print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 2 دقیقه...")
-        time.sleep(1800)  # ← اینجا تغییر کرد به 5 دقیقه
+        time.sleep(300)  # ← اینجا تغییر کرد به 5 دقیقه
