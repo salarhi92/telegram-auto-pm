@@ -58,6 +58,13 @@ Tired of waiting? Sick of hidden fees? It’s time for a real upgrade:
 Start Now at 👉 https://cryptoflash.shop/
 Telegram: https://t.me/flashusdtsafe_bot
 💸Your funds deserve SPEED, SAFETY, and SIMPLICITY."""
+    """🔥How to swap ETH/BNB/USDT to FLASH USDT 
+✅NO REMIX , NO CODE
+✅fast and secure
+✅refund guarantee
+🌐 https://cryptoflash.shop/swap/
+💬 https://wa.me/+18603166184
+🌐 https://www.youtube.com/watch?v=YB9D1woTfe0&feature=youtu.be"""
 ]
 
 # ساخت کلاینت
