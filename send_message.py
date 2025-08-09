@@ -21,7 +21,7 @@ target_groups = [
 target_groups_with_thread = [
     {
         'chat_id': -1002814308879,  # ← شناسه گروه/کانال
-        'thread_id': 32             # ← شناسه سکشن/Topic که شما گفتی
+        'thread_id': 1037             # ← شناسه سکشن/Topic که شما گفتی
     }
 ]
 
