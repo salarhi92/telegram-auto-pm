@@ -15,7 +15,8 @@ group_message_map = {
             "Flash BTC Software Group.",
             "Flash Usdt Group",
             "BTC - FLASH ( Public Group)",
-            "USDT PAKISTAN ONLINE"
+            "USDT PAKISTAN ONLINE",
+            "Marktplaats Benelux"
         ],
         "messages": [
             """⚡Say NO to scams!
