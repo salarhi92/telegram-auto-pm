@@ -18,26 +18,18 @@ group_message_map = {
             "USDT PAKISTAN ONLINE"
         ],
         "messages": [
-            """⚡Say NO to scams!
-⚡ Instant Tether (USDT) delivery — zero gas fees, zero extra charges!
-🔒 Secure payment with trusted gateway
-💥 Works on Binance & all wallets
-💨 Send crypto FAST, SAFE & EASY
-Join thousands who trust Crypto Flash!
-Get started now: https://cryptoflash.shop/
-Telegram: https://t.me/flashusdtsafe_bot""",
-            """🚀 Flash Crypto sender Pro – Tired of slow, clunky crypto apps?
-Experience lightning-fast, secure FLASH USDT transactions
-✅ TRC20, ERC20, BEP20, and BTC 
-✅ Clean, modern interface
-✅ Instant visual feedback with real-time logs
-✅ No login. No wallet connection. 100% Safe to try
-🔐 Built for speed. Designed for trust.
-🎁 Now available for FREE download – limited time only!
-👉 Click below to experience the next level of transfer Flash USDT.
-WhatsApp:+18603166184
-🔗 https://cryptoflash.shop/app/
-Telegram: https://t.me/flashusdtsafe_bot""",
+            """🔥 24-Hour Exclusive Deal! 🔥
+Buy Flash usdt today and get flash usdt software absolutely FREE!
+⏳ Only for the next 24 hours – don’t miss out!
+
+✅ Instant & Automated: Your Flash USDT is delivered instantly, with no manual steps.
+
+✅ Secure Payments: Fully verified payment processing ensures your peace of mind.
+
+✅ Money-Back Guarantee: Not satisfied? Get a full refund—no questions asked.
+
+✅ Registered & Trustworthy: A legit company, VAT-registered, with 24/7 live support.
+👉 Grab yours now: https://cryptoflash.shop/buy/""",
         ]
     },
 
