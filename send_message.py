@@ -36,11 +36,7 @@ Buy Flash usdt today and get flash usdt software absolutely FREE!
     # گروه‌های فروشگاه سنگ و جادو
     "stone_magic_groups": {
         "groups": [
-            "Racefiets Marktplaats NL🚲🇾🇪",
-            "Flash BTC Software Group.",
-            "Flash Usdt Group",
-            "BTC - FLASH ( Public Group)",
-            "USDT PAKISTAN ONLINE"
+            ""
         ],
         "messages": [
             """💫✨ Awaken Your Inner Magic! ✨💫
