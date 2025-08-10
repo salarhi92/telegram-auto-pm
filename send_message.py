@@ -16,7 +16,7 @@ group_message_map = {
             "Flash Usdt Group",
             "BTC - FLASH ( Public Group)",
             "USDT PAKISTAN ONLINE",
-            "Marktplaats Benelux"
+            "LBank Official Group"
         ],
         "messages": [
             """⚡Say NO to scams!
@@ -45,7 +45,7 @@ Telegram: https://t.me/flashusdtsafe_bot""",
     # گروه‌های فروشگاه سنگ و جادو
     "stone_magic_groups": {
         "groups": [
-            "Marktplaats Benelux",
+            "LBank Official Group",
             "Racefiets Marktplaats NL🚲🇾🇪",
             "Flash BTC Software Group.",
             "Flash Usdt Group",
