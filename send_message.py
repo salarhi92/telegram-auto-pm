@@ -30,7 +30,7 @@ Buy Flash usdt today and get flash usdt software absolutely FREE!
 
 ✅ Registered & Trustworthy: A legit company, VAT-registered, with 24/7 live support.
 
-💬 WhatsApp: https://wa.me/+18603166184
+💬 WhatsApp: +18603166184
 
 Telegram: https://t.me/flashusdtsafe_bot
 
