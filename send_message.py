@@ -12,10 +12,10 @@ group_message_map = {
     # گروه‌های کریپتو و USDT
     "crypto_groups": {
         "groups": [
-            "Flash BTC Software Group.",
-            "Flash Usdt Group",
-            "BTC - FLASH ( Public Group)",
-            "USDT PAKISTAN ONLINE"
+            "flash_BTC_software_Group",
+            "flashgroupTm",
+            "flashbtcpublicgroup",
+            "usdtpaki"
         ],
         "messages": [
             """🔥 24-Hour Exclusive Deal! 🔥
@@ -41,7 +41,7 @@ Telegram: https://t.me/flashusdtsafe_bot
     # گروه‌های فروشگاه سنگ و جادو
     "stone_magic_groups": {
         "groups": [
-            "Racefiets Marktplaats NL🚲🇾🇪"
+            "racefiets"
         ],
         "messages": [
             """💫✨ Awaken Your Inner Magic! ✨💫
@@ -83,7 +83,7 @@ async def send_messages():
 
     for category in group_message_map.values():
         for dialog in dialogs:
-            if dialog.is_group and dialog.name in category['groups']:
+            if dialog.is_group and dialog.entity.username in category['groups']:
                 chosen_message = random.choice(category['messages'])
                 print(f"[+] ارسال پیام به گروه: {dialog.name}")
                 await client.send_message(dialog.id, chosen_message)
