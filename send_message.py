@@ -171,7 +171,7 @@ async def send_messages():
                 try:
                     print(f"[+] ارسال پیام به گروه: {dialog.name}")
                     await client.send_message(dialog.id, chosen_message)
-                    await asyncio.sleep(5)  # فاصله کوتاه بین پیام‌ها برای جلوگیری از اسپم
+                    await asyncio.sleep(15)  # فاصله کوتاه بین پیام‌ها برای جلوگیری از اسپم
                 except FloodWaitError as e:
                     print(f"[!] تلگرام به دلیل اسپم محدودیت گذاشت، باید {e.seconds} ثانیه صبر کنی...")
                     await asyncio.sleep(e.seconds + 15)
