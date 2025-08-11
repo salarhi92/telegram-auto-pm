@@ -171,9 +171,9 @@ async def send_messages():
                 print(f"[+] ارسال پیام به گروه: {dialog.name}")
                 await client.send_message(dialog.id, chosen_message)
 
-# اجرای خودکار هر 8 دقیقه
+# اجرای خودکار هر 15 دقیقه
 with client:
     while True:
         client.loop.run_until_complete(send_messages())
-        print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 8 دقیقه...")
-        time.sleep(480)
+        print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 15 دقیقه...")
+        time.sleep(780)
