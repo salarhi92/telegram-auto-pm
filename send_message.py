@@ -15,7 +15,6 @@ group_message_map = {
             "Flash BTC Software Group.",
             "Flash Usdt Group",
             "BTC - FLASH ( Public Group)",
-            "Flash USDT Group",
             "USDT PAKISTAN ONLINE"
         ],
         "messages": [
