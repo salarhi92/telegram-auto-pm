@@ -26,6 +26,14 @@ group_message_map = {
 "cryptoprodsshills",
 "Shitcoinmoonshotss",
 "qihangCN",
+"uniswaptalk",
+"chuletashill",
+"Spartatgm",
+"hard_shill",
+"Hiddengemsearly",
+"SatoshiNakamoto1478",
+"blockchainflashreflectgroup",
+
 "safedegens_bsc"
         ],
         "messages": [
