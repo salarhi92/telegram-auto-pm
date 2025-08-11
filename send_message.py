@@ -15,6 +15,7 @@ group_message_map = {
             "Flash BTC Software Group.",
             "Flash Usdt Group",
             "BTC - FLASH ( Public Group)",
+            "Flash USDT Group",
             "USDT PAKISTAN ONLINE"
         ],
         "messages": [
@@ -29,6 +30,11 @@ Buy Flash usdt today and get flash usdt software absolutely FREE!
 ✅ Money-Back Guarantee: Not satisfied? Get a full refund—no questions asked.
 
 ✅ Registered & Trustworthy: A legit company, VAT-registered, with 24/7 live support.
+
+💬 WhatsApp: https://wa.me/+18603166184
+
+Telegram: https://t.me/flashusdtsafe_bot
+
 👉 Grab yours now: https://cryptoflash.shop/buy/""",
         ]
     },
@@ -36,7 +42,7 @@ Buy Flash usdt today and get flash usdt software absolutely FREE!
     # گروه‌های فروشگاه سنگ و جادو
     "stone_magic_groups": {
         "groups": [
-            ""
+            "Racefiets Marktplaats NL🚲🇾🇪"
         ],
         "messages": [
             """💫✨ Awaken Your Inner Magic! ✨💫
