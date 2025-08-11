@@ -61,6 +61,30 @@ Buy Flash usdt today and get flash usdt software absolutely FREE!
 Telegram: https://t.me/flashusdtsafe_bot
 
 👉 Grab yours now: https://cryptoflash.shop/buy/""",
+            """100% Automatic Delivery Flash usdt/ Free App 
+✅ Instant Auto Delivery
+✅ No Demo / No Test Orders
+✅ Trusted by Real Clients Worldwide
+🔒We do not offer test transactions — our system is built for serious buyers only.
+Once payment is confirmed, the Flash USDT hits your wallet 
+automatically in just minutes.
+💬 Have questions? Our support team is here 24/7 to help.
+👉 Ready to experience true automation?
+WhatsApp:+18603166184
+🌐 https://cryptoflash.shop/buy/""", 
+            """🔥 Say Goodbye to Scams — Hello to Instant, Safe Flash USDT Transfers! 🔥
+Start Now at 👉 https://cryptoflash.shop/ It’s time for a real upgrade:
+🚀 Instant Delivery — No Waiting, No Delays
+💸 Zero Gas Fees & No Extra Charges — Keep 100% of Your Money
+🔒 Rock-Solid Security — Pay via Trusted, Verified Gateway
+💼 Compatible with Binance & All Wallets — Ultimate Flexibility
+🌍 Send FLASH USDT Anywhere, Anytime — Fast, Easy, Reliable
+💸Join the revolution of smart crypto users who refuse to get scammed!
+Start Now at 👉 https://cryptoflash.shop/
+Telegram: https://t.me/flashusdtsafe_bot
+💸Your funds deserve SPEED, SAFETY, and SIMPLICITY."""
+
+
         ]
     },
 
@@ -114,9 +138,9 @@ async def send_messages():
                 print(f"[+] ارسال پیام به گروه: {dialog.name}")
                 await client.send_message(dialog.id, chosen_message)
 
-# اجرای خودکار هر 5 دقیقه
+# اجرای خودکار هر 8 دقیقه
 with client:
     while True:
         client.loop.run_until_complete(send_messages())
-        print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 5 دقیقه...")
-        time.sleep(300)
+        print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 8 دقیقه...")
+        time.sleep(480)
