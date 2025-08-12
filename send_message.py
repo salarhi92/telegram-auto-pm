@@ -13,6 +13,12 @@ group_message_map = {
         "groups": [
             "flash_BTC_software_Group",
             "flashgroupTm",
+            "shillgrow",
+"GubbinLounge",
+"jackpotgems",
+"anbucryptotalk",
+"wujishequ_cn",
+"sgsbsc",
             "flashbtcpublicgroup",
             "CasacryptoLounge",
             "nano_caps",
