@@ -39,6 +39,7 @@ group_message_map = {
             "Hiddengemsearly",
             "SatoshiNakamoto1478",
             "blockchainflashreflectgroup",
+            "usdtpaki",
             "safedegens_bsc"
         ],
         "messages": [
