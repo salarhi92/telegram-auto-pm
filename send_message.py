@@ -104,7 +104,6 @@ group_message_map = {
 "StopRippers",
 "hammermarketplace",
 "surgesocialmarket",
-"OTCmarketByChain",
 "vitorez",
 "MJTrustedMarket",
 "ourigmarket",
