@@ -42,9 +42,69 @@ group_message_map = {
             "safedegens_bsc"
         ],
         "messages": [
-            "پیام ۱ ...",
-            "پیام ۲ ...",
-            "پیام ۳ ..."
+            """100% Automatic Delivery Flash usdt/ Free App 
+✅ Instant Auto Delivery
+✅ No Demo / No Test Orders
+✅ Trusted by Real Clients Worldwide
+🔒We do not offer test transactions — our system is built for serious buyers only.
+Once payment is confirmed, the Flash USDT hits your wallet 
+automatically in just minutes.
+💬 Have questions? Our support team is here 24/7 to help.
+👉 Ready to experience true automation?
+WhatsApp:+18603166184 
+🌐 https://cryptoflash.shop/buy/""",
+"""🔥 Say Goodbye to Scams — Hello to Instant, Safe Flash USDT Transfers! 🔥
+Start Now at 👉 https://cryptoflash.shop/ It’s time for a real upgrade:
+🚀 Instant Delivery — No Waiting, No Delays
+💸 Zero Gas Fees & No Extra Charges — Keep 100% of Your Money
+🔒 Rock-Solid Security — Pay via Trusted, Verified Gateway
+💼 Compatible with Binance & All Wallets — Ultimate Flexibility
+🌍 Send FLASH USDT Anywhere, Anytime — Fast, Easy, Reliable
+💸Join the revolution of smart crypto users who refuse to get scammed!
+Start Now at 👉 https://cryptoflash.shop/
+Telegram: https://t.me/flashusdtsafe_bot
+💸Your funds deserve SPEED, SAFETY, and SIMPLICITY""",
+"""🚀 Flash Crypto sender Pro – Tired of slow, clunky crypto apps?
+Experience lightning-fast, secure FLASH USDT transactions
+✅ TRC20, ERC20, BEP20, and BTC 
+✅ Clean, modern interface
+✅ Instant visual feedback with real-time logs
+✅ No login. No wallet connection. 100% Safe to try
+🔐 Built for speed. Designed for trust.
+🎁 Now available for FREE download – limited time only!
+👉 Click below to experience the next level of transfer Flash USDT.
+WhatsApp:+18603166184
+🔗 https://cryptoflash.shop/app/
+Telegram: https://t.me/flashusdtsafe_bot
+🔗 https://youtu.be/EHmefIQZSBs""",
+"""⚡Say NO to scams!
+⚡ Instant Tether (USDT) delivery — zero gas fees, zero extra charges!
+🔒 Secure payment with trusted gateway
+💥 Works on Binance & all wallets
+💨 Send crypto FAST, SAFE & EASY
+Join thousands who trust Crypto Flash!
+Get started now: https://cryptoflash.shop/
+Telegram: https://t.me/flashusdtsafe_bot""",
+"""Flash usdt  Free App
+🌐 https://cryptoflash.shop/app/
+✅ Instant Auto Delivery
+✅ No Demo / No Test Orders
+✅ Trusted by Real Clients Worldwide
+🔒We do not offer test transactions — our system is built for serious buyers only.
+Once payment is confirmed, the Flash USDT hits your wallet 
+automatically in just minutes.
+💬 Have questions? Our support team is here 24/7 to help.
+👉 Ready to experience true automation?
+WhatsApp: +18603166184 
+ Telegram: https://t.me/flashusdtsafe_bot
+https://youtu.be/rG8ksCwRWYE""",
+"""🔥How to swap ETH/BNB/USDT to FLASH USDT 
+✅NO REMIX , NO CODE
+✅fast and secure
+✅refund guarantee
+🌐 https://cryptoflash.shop/swap/
+💬 Whatsapp: +18603166184
+🌐 https://www.youtube.com/watch?v=YB9D1woTfe0&feature=youtu.be"""
         ]
     }
 }
