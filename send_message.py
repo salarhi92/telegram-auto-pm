@@ -3,13 +3,6 @@ import random
 import time
 from telethon.errors import FloodWaitError
 import asyncio
-import os
-
-# حذف فایل سشن قبلی اگر وجود داشته باشد
-session_file = 'flash_session.session'
-if os.path.exists(session_file):
-    os.remove(session_file)
-    print("[*] فایل سشن قدیمی حذف شد.")
 
 # مشخصات حساب تلگرام
 api_id = 20072394
@@ -52,6 +45,7 @@ group_message_map = {
             "safedegens_bsc"
         ],
         "messages": [
+            # پیام‌ها بدون تغییر
             """🔥 24-Hour Exclusive Deal! 🔥
 Buy Flash usdt today and get flash usdt software absolutely FREE!
 ⏳ Only for the next 24 hours – don’t miss out!
@@ -69,7 +63,7 @@ Buy Flash usdt today and get flash usdt software absolutely FREE!
 Telegram: https://t.me/flashusdtsafe_bot
 
 👉 Grab yours now: https://cryptoflash.shop/buy/""",
-            # بقیه پیام‌ها را اینجا اضافه کن اگر لازم بود
+            # ... بقیه پیام‌ها هم مثل قبلی باشند ...
         ]
     },
 
@@ -79,13 +73,15 @@ Telegram: https://t.me/flashusdtsafe_bot
             "racefiets"
         ],
         "messages": [
+            # پیام‌ها بدون تغییر
             """💫✨ Awaken Your Inner Magic! ✨💫
 🔮 Unique Magic & Enchanted Stones, Crafted Just for You 🔮
 At UniBazaar, each stone is ritual-charged with powerful intention to amplify your personal energy.
 💰 Attract lasting wealth, ❤️ invite genuine love, and 🛡️ shield yourself with potent protection — all in one mystical collection designed to transform your life.
 
 🌐 https://unibazaar.shop
-📩 DM now to begin your magical journey and unlock your true potential!"""
+📩 DM now to begin your magical journey and unlock your true potential!""",
+            # ... بقیه پیام‌ها هم مثل قبلی باشند ...
         ]
     }
 }
@@ -99,21 +95,22 @@ async def send_messages():
 
     for category in group_message_map.values():
         for dialog in dialogs:
+            # چک با یوزرنیم گروه
             if dialog.is_group and dialog.entity.username in category['groups']:
                 chosen_message = random.choice(category['messages'])
                 try:
                     print(f"[+] ارسال پیام به گروه: {dialog.name}")
                     await client.send_message(dialog.id, chosen_message)
-                    await asyncio.sleep(15)  # جلوگیری از اسپم با فاصله ۱۵ ثانیه
+                    await asyncio.sleep(5)  # فاصله کوتاه بین پیام‌ها برای جلوگیری از اسپم
                 except FloodWaitError as e:
                     print(f"[!] تلگرام به دلیل اسپم محدودیت گذاشت، باید {e.seconds} ثانیه صبر کنی...")
-                    await asyncio.sleep(e.seconds + 15)
+                    await asyncio.sleep(e.seconds + 5)
                 except Exception as ex:
                     print(f"[!] خطا در ارسال پیام به {dialog.name}: {ex}")
 
-# اجرای خودکار هر ۱۱.۵ دقیقه
+# اجرای خودکار هر 15 دقیقه
 with client:
     while True:
         client.loop.run_until_complete(send_messages())
-        print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 11.5 دقیقه...")
-        time.sleep(700)
+        print("[*] پیام‌ها ارسال شدند، اجرای بعدی در 15 دقیقه...")
+        time.sleep(900)
