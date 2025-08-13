@@ -12,6 +12,7 @@ group_message_map = {
     "crypto_groups": {
         "groups": [
             "CasacryptoLounge_353",
+"usdtpaki",
 "ShillNFT_Russia",
 "Usdtmarket0",
 "ghdqhghdqh1",
