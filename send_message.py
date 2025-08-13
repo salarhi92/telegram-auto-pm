@@ -119,8 +119,8 @@ async def main_loop():
 
     while True:
         await send_messages()
-        print("[*] پیام‌ها ارسال شدند، 5 دقیقه صبر می‌کنم...")
-        await asyncio.sleep(300)
+        print("[*] پیام‌ها ارسال شدند، 15 دقیقه صبر می‌کنم...")
+        await asyncio.sleep(900)
 
 if __name__ == '__main__':
     client.loop.run_until_complete(main_loop())
