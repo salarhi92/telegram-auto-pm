@@ -43,7 +43,6 @@ Start Now at 👉 https://cryptoflash.shop/ It’s time for a real upgrade:
 🌍 Send FLASH USDT Anywhere, Anytime — Fast, Easy, Reliable
 💸Join the revolution of smart crypto users who refuse to get scammed!
 Start Now at 👉 https://cryptoflash.shop/
-Telegram: https://t.me/flashusdtsafe_bot
 💸Your funds deserve SPEED, SAFETY, and SIMPLICITY""",
 """🚀 Flash Crypto sender Pro – Tired of slow, clunky crypto apps?
 Experience lightning-fast, secure FLASH USDT transactions
@@ -56,7 +55,6 @@ Experience lightning-fast, secure FLASH USDT transactions
 👉 Click below to experience the next level of transfer Flash USDT.
 WhatsApp:+18603166184
 🔗 https://cryptoflash.shop/app/
-Telegram: https://t.me/flashusdtsafe_bot
 🔗 https://youtu.be/EHmefIQZSBs""",
 """⚡Say NO to scams!
 ⚡ Instant Tether (USDT) delivery — zero gas fees, zero extra charges!
@@ -64,8 +62,7 @@ Telegram: https://t.me/flashusdtsafe_bot
 💥 Works on Binance & all wallets
 💨 Send crypto FAST, SAFE & EASY
 Join thousands who trust Crypto Flash!
-Get started now: https://cryptoflash.shop/
-Telegram: https://t.me/flashusdtsafe_bot""",
+Get started now: https://cryptoflash.shop/""",
 """Flash usdt  Free App
 🌐 https://cryptoflash.shop/app/
 ✅ Instant Auto Delivery
@@ -77,8 +74,7 @@ automatically in just minutes.
 💬 Have questions? Our support team is here 24/7 to help.
 👉 Ready to experience true automation?
 WhatsApp: +18603166184 
- Telegram: https://t.me/flashusdtsafe_bot
-https://youtu.be/rG8ksCwRWYE""",
+ https://youtu.be/rG8ksCwRWYE""",
 """🔥How to swap ETH/BNB/USDT to FLASH USDT 
 ✅NO REMIX , NO CODE
 ✅fast and secure
