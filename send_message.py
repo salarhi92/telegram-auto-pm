@@ -25,6 +25,21 @@ group_message_map = {
 "cryptoprodsshills"
 ],
         "messages": [
+            """💎 CryptoFlash.shop Affiliate Program – Earn 25% to 50% Commission! 💎
+🚀 Turn Your Network into Real Earnings!
+🌐 Sign up now: https://cryptoflash.shop
+Do you want to earn 25%–50% commission for every Tether (USDT) Flash Sale you refer?
+Join the CryptoFlash.shop Affiliate Program and start making money by promoting our high-demand crypto products!
+💡 Why Join?
+💰 High Commissions: 25% to 50% per successful sale.
+⚡️ Fast & Easy: Share your unique referral link — we track every sale automatically.
+🌍 Global Opportunity: Anyone can join and earn from anywhere in the world.
+🎁 Ready-to-Use Marketing Materials: Banner ads, social posts, and links provided to boost your sales.
+📈 How It Works:
+Sign up and get your unique affiliate link.
+Share it with your network via social media, Telegram, email, or websites.
+Earn up to 50% commission on every successful transaction of Flash Tether!
+🔥 Start earning today — turn every click into crypto rewards!"""
             """100% Automatic Delivery Flash usdt/ Free App 
 ✅ Instant Auto Delivery
 ✅ No Demo / No Test Orders
