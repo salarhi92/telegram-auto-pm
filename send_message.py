@@ -12,6 +12,11 @@ group_message_map = {
     "crypto_groups": {
         "groups": [
             "CasacryptoLounge_353",
+            "DoublyCommunityRU",
+"DoublyCommunityBR",
+"DoublyCommunityID",
+"DoublyCommunityES",
+"DoublyCommunityIR",
 "usdtpaki",
 "BEA_MALL_Pakistan",
 "ShillNFT_Russia",
