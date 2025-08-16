@@ -103,7 +103,11 @@ WhatsApp: +18603166184
 ✅refund guarantee
 🌐 https://cryptoflash.shop/swap/
 💬 Whatsapp: +18603166184
-🌐 https://www.youtube.com/watch?v=YB9D1woTfe0&feature=youtu.be"""
+🌐 https://www.youtube.com/watch?v=YB9D1woTfe0&feature=youtu.be""",
+            """How to create your own flash usdt update August 2025 full tutorial. 
+            Code: sites.google.com/view/telegramflashcrypto92/home
+website : remix.ethereum.org/
+Want to know how to create Flash USDT the easy and secure way? In this video, we break down the newest method (August 2025) to generate USDT flash transactions without complicated setups or risky steps. Whether you're a beginner or already familiar with blockchain tools, this guide walks you through everything step by step."""
         ]
     }
 }
