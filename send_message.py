@@ -13,6 +13,9 @@ group_message_map = {
         "groups": [
             "CasacryptoLounge_353",
             "DoublyCommunityRU",
+            "NeonMarketplace",
+            "supersfs",
+            "AdinathComodity1",
 "DoublyCommunityBR",
 "whitewookies",
 "CYNMARKET",
