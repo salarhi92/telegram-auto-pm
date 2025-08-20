@@ -63,7 +63,7 @@ automatically in just minutes.
 👉 Ready to experience true automation?
 WhatsApp:+18603166184 
 🌐 https://cryptoflash.shop/buy/""",
-"""🔥 Say Goodbye to Scams — Hello to Instant, Safe Flash USDT Transfers! 🔥
+"""🔥 Say Goodbye to Scams — Hello to Instant, Safe Flash USDT shop! 🔥
 Start Now at 👉 https://cryptoflash.shop/ It’s time for a real upgrade:
 🚀 Instant Delivery — No Waiting, No Delays
 💸 Zero Gas Fees & No Extra Charges — Keep 100% of Your Money
@@ -85,13 +85,6 @@ Experience lightning-fast, secure FLASH USDT transactions
 WhatsApp:+18603166184
 🔗 https://cryptoflash.shop/app/
 🔗 https://youtu.be/EHmefIQZSBs""",
-"""⚡Say NO to scams!
-⚡ Instant Tether (USDT) delivery — zero gas fees, zero extra charges!
-🔒 Secure payment with trusted gateway
-💥 Works on Binance & all wallets
-💨 Send crypto FAST, SAFE & EASY
-Join thousands who trust Crypto Flash!
-Get started now: https://cryptoflash.shop/""",
 """Flash usdt  Free App
 🌐 https://cryptoflash.shop/app/
 ✅ Instant Auto Delivery
