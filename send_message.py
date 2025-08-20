@@ -14,6 +14,8 @@ group_message_map = {
             "CasacryptoLounge_353",
             "DoublyCommunityRU",
             "NeonMarketplace",
+            "btcinvestment1111",
+            "instabloog",
             "supersfs",
             "AdinathComodity1",
 "DoublyCommunityBR",
